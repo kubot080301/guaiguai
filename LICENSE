@@ -2,61 +2,67 @@
                            Version 1.0, December 2021
                         http://www.kuaikuai.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   		TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
                                                                                                                                                                                                         
-	,i::,:.............. . . . .   . .                              .....,.              
-	7SSXXXX7X777777r7r7r7rrrrr7rrrr;rrrrr;;;;;;;;i;i;;;;;;;;;;;r7;7rX7XXSSX              
-	;XXXXX7X7777r7r7rrr7r7r7r7r777r7r7r7r7r7r7r7r7r7r77777rX7XXXXXX77XXXXSX              
-	:X7r777rr;;;;i;;7rr;i;r;;;;;r;;;;;;;;;;;;;;;rrrrrr7;rrrrrrrrrr7;r777XSr              
-		;SX77rr;;;;:7SaaZZZX;iriii;i;iriii;7;i;;;i;r7;r;r;;;r;r;r;r;r;rrXXS2r               
-		,r7rrrr;;iaa22ZZZaZZr;rXZaa7aZSXXa82a27i;;;;;i;i;i;i;;;;;;r;rrX7XXi                
-		.Xr;;rriSZriraZr;;aai8BZ2X0Ba80aWaZaZXr7,ir::r::7:ir;:rr7r7rXrrXX                 
-		,27;i;;iSa;X;S2r7rXZ:0ZZZX2WZ2B20@SaXr;7,i::iriii,,;iirrr7r7;rr2r                 
-		:2S;ii;;rZ8SZZZZS887irZS2X2SXX2XrXSX;i;;7;XaX2Za277XX7r7rr;ii;Xa7                 
-		:aS7,::;ir28ZZZZZZ7i;;i;;r;;ir;;;iirXZZ000BB8B00Z@BZSZ8S;riiirXa7                 
-		i2S7i,:i;i;;XXSXr:i;rr77X77rr;r;;7Z0B0B0B000B0B0Z@X:;:82i;;i;;X2X                 
-		iaSXi:,ii;;r;i:;7SSSXXXXXXXSS;;;2BBB0B0B000B0B0BZ@Z7rSWZir;;i;XZX                 
-		i2SXi,::iir;r72SXrr;;iri;:r:X;rZW000B0B0B0B0B000ZW0XrXWa;r7r;;SaX                 
-		iaSSi,:;rS7S2S;riX;7;;;r;r;iriZW0B0BBB0BBB00000BZW7ii,ZZirrr;rXZX                 
-		i2SX;,i7ZaS77:i;irXX28BBBBW82ZWBWBBB0aZZ88BBB0008WWX7ZM2;;r;;;S2X                 
-		:aSXi:, ,i77r;iXS2Xr7@BWBBBWBWZ;:2WZrS:..,rS2BBBaB2r;;0Zir;iirXa7                 
-		:aSX;,i,i;;;rS2Xri;;iZMWWBWBWWi.;iW,XS... 7Z;,ZBZZ2i;;0a;7ri;;XaX                 
-		,aSXi::i7XSSX7i;;7rr;r20BWWWWW7:i;; XX., 2Z.. Z@ZS00ZBWZ;r;i:rXa7                 
-		,22X;:i;;;r;;rX77;:  ,XZBW0B@WWr. 78i .,.i;,.;Br:,i8BBBBZrii7aZS;                 
-		.2SX;:irrr;X2X:rr7;..,iaW7 208Wi .ZMr.i.i20;.,. ;:.iZi;BW0S22aBZi                 
-		.S2Xr:i;r;XZi  ;r,,,:. .Zi.7.7@;  a0XXa:2Ma . ,:;.: 2:,ZW8aS2aWW7                 
-		22S;;i;r7Z;   :;XXS:.  XS ..XMB. iXrX7XX2.. iZBi..28::0B8222ZWBr                 
-		.S2Xri;;;78,XXiiXrXS7:XiXr   r8B0;.:;i;;: .,;XSS7 .ZBXZWW8Z2SXSSr                 
-		S2Xrrrr;7aXX7rXSXXZX:7XSiii727X2Ziii;i::;;77XXXXXZB8M@@Ba7;:;X2r                 
-		X2X7;rrrrr2X,.      ,77;;rSaS2S2,,Xr;::;XX7S2Z8W@MB00aXr:::irS27                 
-		XSXrr;rrrrrXXri::i;rXrr;7rr;77X2X72a7:;rXXaaZZZa2X007ir;i:i:rSZr                 
-		X2Xi::,:::,::iiii;iiiiiiiiiiii:777;;;ii;;r;:,,.,.,;;:,.. . ,rS27                 
-		XSSi. ,.  :.  ,.                                           :XXar                 
-		X2Sr :rr:irr,;;r                                           ;SS2r                 
-		SSS7. ,,  :,  :.                                          .72Xar                 
-		.S2SS..                     . ...   ..,                    .22S27                 
-		2SSS:                     ;XSSX;,7S2SXi                   :a2Xar                 
-		.2SXS:.                    ;SSSX7:7SSSXr                   i8SX2r                 
-		.2SXSi                     i;X7rr::777rr                   ;ZXX2r                 
-		,2SXSi  . . ....... ..... .  ., .   ,.. . . ..... ... ...  r0XS2r                 
-		:aSSS;  .. ... ..... ... ... . . . . ... ... ... . ... ..  78XSar                 
-		ia2XSi                                                     7Z7X2r                 
-		iaSXXi                                                     Xa7Xa;                 
-		iaSXX:.                                                    7Z72ar                 
-		iZSS7:                                 .                   raXSZ;                 
-		;aSXX:  ,.,.,...,...,...,.,.....,.,...,.,...,.,.,.,.,.,.,  ia7X2;                 
-		iaSX7,                                                     :S7Xai                 
-		i2SX7.             ,:..:,.;...i ;ii:;i:;,i:i::.    .:. .:.  SXX2:                 
-		:aSXr.             ,,. ,..:. ., ::,,::,i.i,i.:     ;rr.;r;  iXXS.                 
-		:a2X;.                                              ,   ,...,7SX                  
-		:aXXr;;;;r;r;;;;ii::::::::,:,:,::iiiiii;;;;;;rr7r7777XXXXSXXXXX7                  
-		,2SXX7XSSXXXXXX7Xr7r7r7rrrrrr;r77rrrXXSXXSS2a2a222222S2SSXXXXXXX:                 
-		;aSSXX77rr;rr7r7rrrrrr;rr;;riri;;:,,,;;irrirr7r;;r;r;r;rr7r7rXXS2r                
-		,SZ2SXSXXXXXXXSXSXSSSSSXXXXXXXXXXXX7XXXXXXSXSXXXXXX7X7X7X7XXSXSXXX22X.              
-	.2Z22S2XSXSS2SSS2SSS2S2S2SSSSS2S222Sa22222a2222S2SSSSSSSSSS22S2S2SSS2Z;              
-	,ZaaS2SXXXXXXXXX7X7X777777r77X777X7X7X7X7X7777777777r7r77X7XX77XXXXSSai              
-	,S2XX77rr;r;r;r;r;r;r;rrrrrrr;r;;;;;;;r;rrrrr;rrrr7rrr7r7r777777X7XXS2i              
-		.                                                   . . . . ......,,:               
+7rX77rr;r;r;rr7rr;rrr;rrr;7rr;7rrrr;rrr;rr;rrrrrr;rr7rr;r;77rr7rr7rrXr7777Xr7rX7
+7;rr;;;;i;ii:::iiiii:ii;iiiii;i;i;iii;iii;iii;iiiii;;;;;;;;;;;;riri;;;;;ir;;i;;;
+Xr7r;;;;;ii:rX2aZZZ2X;i;;;;;;i;;;;;i;;;;;i;i;;;;;;;;7rr;rrr;;;r;;;r;r;;;r;r;rrX7
+7r77rr;;;iiSZZaZaZZ888Xi7;ii7XX7iiS2;;iiX8XX77;;;;;rrr;r;r;r;r;;;7;;;;;r;;;r7X7X
+7;;;r;r;;iZZSXSa8ZaXX20Xi;2aWZ8aZZBSZ2aaW2aZ8aSirr;i;iiiiiii;iii;i;r;;r;rr7rX77r
+Xr;;;rrriX07;i;78a;;ira0:7@B8SS78@288BS8BZZa2a7;rX ;rr.ir7.r7r.7r7,r;rrrr7rX7rr7
+S7riiir;iX0ir7ri8SirX:S8iX@SZBSSXW82SWZ2M@XaSSr;r7.;ii.ir;,:ii.i;r:r7rrrr77;rr7X
+SX7iiiir;rZaarZaZZZXXZZZ:;SWX8SXa0ZSS0aXX0SZ2;i;i;;i:rXXXXSS7iiiiiir;rr7r7ii;r72
+2XS;::ii;i788aZZZZZ2Z8Zii;;7XrX7X;;r7r7r;irr;i;rXX22ZB8S0888Z88Z8ZZ72X;;riii;;XS
+2SX7:::ii;ir2ZZ8Z8ZZaXi;;;;iir;;;r;;;r;rr;irSZ0BBBBBBB0BBBB02@@8XXX0BX;7;iii;rX2
+2XX7i,::i;r;i;7XXXXr;:;i;ir;rrrrr;r;rr7r;ra0BBB0B0B0B0B000B0ZW0,;ii:W2i;;i;i;;SS
+2SXXi:,::iirrr;iii:i;XS22222S22a2aaX;;i;SBBB00000B0B0B0B0B0BaWB7;;;X@air;ri;irS2
+2XXXi,,,:i;;r;7;;rSZaX7;i;:;i:;,7iXX;ir8W0B0B0B0B000B0B0B0B0ZBMWS72@MZ;r7r7;;;S2
+2SXSi:,,,::r;;;XaZXii:;X;SiXri7:X:;rir0W0B0B0B0B0B0B0B0B0B0BZBBr;;:7WZ;rr7rr;rSa
+2XSS;,::rraXXaZ2r,ri22;;i:iir;r;;i7r;8W0BBBBB0B0BBB000B0B0B0ZBB:;;iiWa;;rrr;rrSS
+2SSXi:,rS88aS7r:i;ri:77S2Z0WBWBWWB22ZWBWWBBBBBZ8800WBWBB0B0BZB@BX7SW@air;r;;;rS2
+aXSX;::..:::X;2S::;Xaa2Xr8@BWBWBBWBBWBZ7X8WWZrX;..:irXZBWBBBZ0@27;ra@2;;r;;i;rSS
+2SXXi,:: ,X;Xr.iraZS7;i;iS@WBWBWBWBWW2.: iWB,2ar .  :ZX;XBBBSZ8,i;::WairrriiirX2
+2XSX;:::i;;:ir2aaXri;;;;;;0@WWWWWWWWW;.X;i@;.Z2 ... ;X8; ,BB0SB2r;raM2;77;ii;;S2
+2SXXi:::iXS222Xri;i;;777rr72Z0BWWWWWWS.iiii..ZX.,: SMX . rWW8SZW08BWB8;rr;:i:7XS
+aSSX;:::;i;;r;;ir777r:,   :rZ8W@@WWWWBX:..:87  .,,.rX...,WBr..:7W8WBBWZ;i::iXZaX
+2SSX;::;;7rr;;7aSrrrrX;,  i28W@S:X@M@@S . XM@X,:,,,:r2::.r:.;;,:XB2X8BBB2XX22ZWS
+2SSX;:i;rrr;r2Z;  77r:,.,,  i8Z  r8;XWX . 2MZ .X, 2@MS.,.  .r,,  ar iBB08a2S2ZW8
+2SXX;ii;;r;raZ.  ,;ri::i,:   rZ, X..aMZ. .X0Z2aB;raM0, . .;;r,:: 27,i0B0ZaS228B@
+a2SXri;i;rrS8:    :;X222r.   .8;...:SMM7  :7;rXr77Xai . ,XW0i..:Z0X.i0W0Z22Sa8@0
+2SXX;;i;;r;Za.;7r,:;ri777,:r;.Zi .. r0WMX. i;;i;;ri, ..iXaXa;  .0BXiZ@B0Za2a2a2X
+aS2Xr;;rr;;28,aS7rSa2X88Z;i27Xa..  ;2XSa0Z;.::iii:. ,:rX7XXX2:,XB8WW@WWB82X;i;SX
+2SXX7rr7rrr7Z2rrir;X7;;XX,,7Xa;;;XXaXXXXSS:;ri;iiiiXX7X7XXXXXa0MB8@M@W82;i::i7XS
+2XSXr;r;r;7;;2S:.         iXX;;;;X2S2S2aX.,rrrr:::;X7X7X2a0B@@MMB8BaSr;::iii;7SX
+SSXXrr;rrr;r;;7SXri:,::i;XXr;;;7rr;rr7rS2rrS2Zr,:;rXXX2Z8B00ZaXSBBS;rr;;iiiii7S2
+2XX7;i;i;;;;;;;irr7r7r7rr;r;r;rrr;r;r;;rZ22S7XX;rr77XSSii:i:i::ia27:i::,,.,.iX2S
+2SXX,,   . . . ... . ........,.........,,,.,...,...... . . . .             .iXXS
+2XSX;. .i:, ,ii. :i:.                                                      .XSSX
+2SX2;. rrr;,rr;;,7;ri                                                      iXSXS
+2SSSX...i:, ,:i. ,i:.                                                      ;2SXS
+2SSSS,.                                                                    7aSXS
+2S2X2,.                           ::iii;. ,:iiiii                         .XZSSX
+2SSX2i                           iS2aZSX;:X22Z2X7:                        .aZXXS
+aSSX2i.                          :72SX277,rX2XSXX:                        :ZZXXX
+2SXXS;                           ir2XSSXXi;XS2XSXr                        :8aXXX
+2XSX2r.                          ...:i.,, ..,;,.:                         i827XS
+2SXXXr.  ,.,.,,,.,.,.,.,.,.,.,.,.,.......,.........,.,.,.,.,.,.,.,.,.,..  ;02XX2
+aS2XSr.  .. . . . . . . . . . . . . . . . . . . .   . . . . . . . . . .   r02XSS
+22SSS7.                                                                   r0XXXS
+aSSXX;.                                                                   78X7XX
+2SXXX;.                                                                   r0XXSS
+2SSXXi.                                                                   rZXX2S
+22SSXi.                                                                  .iZXXS2
+aXSXXi. .,,.,,,,,.,,,.,.,.,,,,,.,,,,,.,.,.,.,.,.,.,,,,,,,.,,,.,,,,,,,.,.  iZX7SX
+2SSX7i.                                                                   ,ZXXXS
+SXSXX,.                                                                   .SX7XS
+SXXX7:.                :;:..:;.:7:..:;.,7;;;:Xr:X7,rii7iii      ,i:, :ii.  7SXXS
+2XSX7,.                .i.. ,:..i,  ,:..;,::,ii.ii,i::;.:,     .7;ri.rr;;  :S7SX
+22XX;,                                                          .i:. .:i.   ;XXS
+aXSX;.,.. .                                                 . ... ,.:,::ii;i7XSX
+SSXX7r7XXXXXXXXXXX7777rr;;;;;;i;i;i;i;;r;rr77X7XXXXXXSXSS2S2222a2aaa2a2Z2a2SXXX7
+2SSXX7XXSXXXXXX7Xr7r7r7r7r7rr;;;rr7rrr7r7rr;r7XXSXXXSS22a22S2S2SSSSXSXXXXXXXXXX7
+2SSSXX777rrrrrrrr7r7r7rrrrr;r7r;rri;r;;r;,.,.,;ri;7rirr7rr;r;;;r;;rr;r;7r7r77XXX
+2XSXX7XrXr7r777rX7X7X7X7777;7rr;rr;;r;rrriiiiirr;;Xrrr777rr;r;r;r;r;;;rr77X777X7
 
 	1. Definitions.
 		Kuai Kuai culture (or Guai Guai culture) is a phenomenon in Taiwan wherein 
