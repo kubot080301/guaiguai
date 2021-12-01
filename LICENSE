@@ -3,68 +3,67 @@
                         http://www.kuaikuai.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+                                                                                                                                                                                                        
+	,i::,:.............. . . . .   . .                              .....,.              
+	7SSXXXX7X777777r7r7r7rrrrr7rrrr;rrrrr;;;;;;;;i;i;;;;;;;;;;;r7;7rX7XXSSX              
+	;XXXXX7X7777r7r7rrr7r7r7r7r777r7r7r7r7r7r7r7r7r7r77777rX7XXXXXX77XXXXSX              
+	:X7r777rr;;;;i;;7rr;i;r;;;;;r;;;;;;;;;;;;;;;rrrrrr7;rrrrrrrrrr7;r777XSr              
+		;SX77rr;;;;:7SaaZZZX;iriii;i;iriii;7;i;;;i;r7;r;r;;;r;r;r;r;r;rrXXS2r               
+		,r7rrrr;;iaa22ZZZaZZr;rXZaa7aZSXXa82a27i;;;;;i;i;i;i;;;;;;r;rrX7XXi                
+		.Xr;;rriSZriraZr;;aai8BZ2X0Ba80aWaZaZXr7,ir::r::7:ir;:rr7r7rXrrXX                 
+		,27;i;;iSa;X;S2r7rXZ:0ZZZX2WZ2B20@SaXr;7,i::iriii,,;iirrr7r7;rr2r                 
+		:2S;ii;;rZ8SZZZZS887irZS2X2SXX2XrXSX;i;;7;XaX2Za277XX7r7rr;ii;Xa7                 
+		:aS7,::;ir28ZZZZZZ7i;;i;;r;;ir;;;iirXZZ000BB8B00Z@BZSZ8S;riiirXa7                 
+		i2S7i,:i;i;;XXSXr:i;rr77X77rr;r;;7Z0B0B0B000B0B0Z@X:;:82i;;i;;X2X                 
+		iaSXi:,ii;;r;i:;7SSSXXXXXXXSS;;;2BBB0B0B000B0B0BZ@Z7rSWZir;;i;XZX                 
+		i2SXi,::iir;r72SXrr;;iri;:r:X;rZW000B0B0B0B0B000ZW0XrXWa;r7r;;SaX                 
+		iaSSi,:;rS7S2S;riX;7;;;r;r;iriZW0B0BBB0BBB00000BZW7ii,ZZirrr;rXZX                 
+		i2SX;,i7ZaS77:i;irXX28BBBBW82ZWBWBBB0aZZ88BBB0008WWX7ZM2;;r;;;S2X                 
+		:aSXi:, ,i77r;iXS2Xr7@BWBBBWBWZ;:2WZrS:..,rS2BBBaB2r;;0Zir;iirXa7                 
+		:aSX;,i,i;;;rS2Xri;;iZMWWBWBWWi.;iW,XS... 7Z;,ZBZZ2i;;0a;7ri;;XaX                 
+		,aSXi::i7XSSX7i;;7rr;r20BWWWWW7:i;; XX., 2Z.. Z@ZS00ZBWZ;r;i:rXa7                 
+		,22X;:i;;;r;;rX77;:  ,XZBW0B@WWr. 78i .,.i;,.;Br:,i8BBBBZrii7aZS;                 
+		.2SX;:irrr;X2X:rr7;..,iaW7 208Wi .ZMr.i.i20;.,. ;:.iZi;BW0S22aBZi                 
+		.S2Xr:i;r;XZi  ;r,,,:. .Zi.7.7@;  a0XXa:2Ma . ,:;.: 2:,ZW8aS2aWW7                 
+		22S;;i;r7Z;   :;XXS:.  XS ..XMB. iXrX7XX2.. iZBi..28::0B8222ZWBr                 
+		.S2Xri;;;78,XXiiXrXS7:XiXr   r8B0;.:;i;;: .,;XSS7 .ZBXZWW8Z2SXSSr                 
+		S2Xrrrr;7aXX7rXSXXZX:7XSiii727X2Ziii;i::;;77XXXXXZB8M@@Ba7;:;X2r                 
+		X2X7;rrrrr2X,.      ,77;;rSaS2S2,,Xr;::;XX7S2Z8W@MB00aXr:::irS27                 
+		XSXrr;rrrrrXXri::i;rXrr;7rr;77X2X72a7:;rXXaaZZZa2X007ir;i:i:rSZr                 
+		X2Xi::,:::,::iiii;iiiiiiiiiiii:777;;;ii;;r;:,,.,.,;;:,.. . ,rS27                 
+		XSSi. ,.  :.  ,.                                           :XXar                 
+		X2Sr :rr:irr,;;r                                           ;SS2r                 
+		SSS7. ,,  :,  :.                                          .72Xar                 
+		.S2SS..                     . ...   ..,                    .22S27                 
+		2SSS:                     ;XSSX;,7S2SXi                   :a2Xar                 
+		.2SXS:.                    ;SSSX7:7SSSXr                   i8SX2r                 
+		.2SXSi                     i;X7rr::777rr                   ;ZXX2r                 
+		,2SXSi  . . ....... ..... .  ., .   ,.. . . ..... ... ...  r0XS2r                 
+		:aSSS;  .. ... ..... ... ... . . . . ... ... ... . ... ..  78XSar                 
+		ia2XSi                                                     7Z7X2r                 
+		iaSXXi                                                     Xa7Xa;                 
+		iaSXX:.                                                    7Z72ar                 
+		iZSS7:                                 .                   raXSZ;                 
+		;aSXX:  ,.,.,...,...,...,.,.....,.,...,.,...,.,.,.,.,.,.,  ia7X2;                 
+		iaSX7,                                                     :S7Xai                 
+		i2SX7.             ,:..:,.;...i ;ii:;i:;,i:i::.    .:. .:.  SXX2:                 
+		:aSXr.             ,,. ,..:. ., ::,,::,i.i,i.:     ;rr.;r;  iXXS.                 
+		:a2X;.                                              ,   ,...,7SX                  
+		:aXXr;;;;r;r;;;;ii::::::::,:,:,::iiiiii;;;;;;rr7r7777XXXXSXXXXX7                  
+		,2SXX7XSSXXXXXX7Xr7r7r7rrrrrr;r77rrrXXSXXSS2a2a222222S2SSXXXXXXX:                 
+		;aSSXX77rr;rr7r7rrrrrr;rr;;riri;;:,,,;;irrirr7r;;r;r;r;rr7r7rXXS2r                
+		,SZ2SXSXXXXXXXSXSXSSSSSXXXXXXXXXXXX7XXXXXXSXSXXXXXX7X7X7X7XXSXSXXX22X.              
+	.2Z22S2XSXSS2SSS2SSS2S2S2SSSSS2S222Sa22222a2222S2SSSSSSSSSS22S2S2SSS2Z;              
+	,ZaaS2SXXXXXXXXX7X7X777777r77X777X7X7X7X7X7777777777r7r77X7XX77XXXXSSai              
+	,S2XX77rr;r;r;r;r;r;r;rrrrrrr;r;;;;;;;r;rrrrr;rrrr7rrr7r7r777777X7XXS2i              
+		.                                                   . . . . ......,,:               
 
-			.:..                                                                                 
-			LPIuuYsvLvv7v7v777777r777r7rrrrr7rrrririiiiii:i:iii:iiiiirri7r77LvsJ2qI              
-			iu7777r7r7rrrriiiiirirrrrrrrrrrrr7r7rrr7r7r7r7rrr777rvrsrsvLvvL7r77772U              
-			.2r:rrr::::::...::....:.:::::::::::.:.::::::iiiirir:ii:i::i::ii.:iii7Xr              
-				:5siri:.:.. ijqKEDEY..i.......:....:....:::ir:i:i:::i:i::::::::ir7uqr               
-					.rr::ii::.qEIUdPKIDg:..rEK5iIdvii5gu52r.:::::::.:.::::i:::::ii7i71.                
-							Li:::r.Jd. .2K. .Sq QBbLrMBuDQJBIS2E7:7 .i .i .7 .r: i:iirrvi:Lv                 
-							qr..:i.2S.:.7u.:.rg BbPqrLBIYB7QB7Sv..r .  .:     ...iiirri:::Pi                 
-						.P1:..:::ZB7EXbE7gQi :dvsr2LriIr.777  ..:.iSr1SXYiirvi:i:::..:rbv                 
-						.dur ..:.:5gPdEdPdi... ..........  .r5bgRRQQPQgdSBQP2dBY.i...:7dY                 
-						.Pj7. ..:..:r7vi:  .:iiirri:::i:.:2QBMgZDEdbEPEE1B:   g2 ::..:YKY                 
-						.bsv.  ..:::.  .iju1svv7vYs22:. LBQZPdPdPbPPPbPdsBb::7Qq.i::.:vPv                 
-						.Psv.   ..:.:r5IL::.. : . : r..bBEZPdPdPdPbPbPdPJQMi:7BK.:ri:.LZj                 
-						.PYU.  :i1i1S2:: u:i. ....  : bBDDbEZRMQgMdEPdPdJB. . Pb.:ii::vbY                 
-						.PJY. .sRPJrr  : ivL2gBBBBBZvSBBBQMQEJKPgRQQQZEE5BB7:qB1.:i:.:YXL                 
-						.bYL..   .rii..v5I7::BBQgRgQQBP  vBP.v    .rsBQg7Qv.. QK ::..:vPv                 
-							PjL: . .:.::uqL:... bBBQgMDRQ  . B vK    rg. SBjKs   B2.ir...vPv                 
-							bsL...:7j1Usi..:rrr::YPZBQQRB: :.. JU . PB   bBbvQBXBBP :.. .7K7                 
-							Ku7: .::::..iLrr:.   7PBBgQBQB:  rB.    .:  iB:  .BBBBBS.  iXEj:                 
-							KJv...ri:.rbL rr7i   .PB. JBPB   QB: . .XB:    i.  D  BBMYYJ1Bd.                 
-							XU7:..::.vQ.  ii   .   g  7 :B.  dBruZ KBM    .:   U  PBP17vYBBi                 
-							P2L::.::iQ.    :YuI.   vI   7BB  .risrruX   .QB.  XB  ZQqYvsPQBi                 
-							227:.:::rQ vJ.:LisS7 U.Ji   :ZBB.  ..::    iYuJi  dB:UBBEqUYivji                 
-							IIvi:ii:iZvjrr1qsUQs vYK...rU:iUQ...:.. ::7riiir:PBdBBBQI:. .7Kr                 
-							s27i:iii::q7         7v::i5PJjJU  7ii..:Uvrv1PQBQBBDgUr.  ..:sSr                 
-							LU7iiirrriiYUr:...:7u7ii7ri:rr7PvvPgv.:ruJbdRQgKjiBB:.:::...iJbi                 
-							YIr. . ......::::i::::::::.:...vvviii::i:ir       ::        iJXr                 
-							11s.          .                                            .YLXr                 
-							12ji .JL.:Yv.rvv                                           iuvSr                 
-							I1J7  ..  ..  .                                            7I7Pr                 
-							52YU                                                       X27Sr                 
-							Kuv1.                     r5Xq1i LSP5u:                    DUrKi                 
-							Xjr2.                     iKSU2v.rK1SU7                   .Q7r5i                 
-							Xs7U.                     :rs7rr..rL7rr                   :QrrXi                 
-							KJrj.  . . .   . .   .                         .       .  iBirqr                 
-						.dJv1:         . . .                       .   .           7Qr7Pi                 
-						.E1vU:                                                     7g:75i                 
-						.dL77:                                                     vd:rq:                 
-						.Ps7v.                                                     7EiJbi                 
-						:ZsLv.                                                     rPivE:                 
-						:dYvY   ........................... . ...................  :d:7S:                 
-						:qYvr                                                      .qird.                 
-						:5v7r              ::  :. 7  .i r:i.7i.L.::r::      :.  :.  27vP                  
-						.bYvi              ..  .. :   . :..... : :.: .     rv7 i7r  :vvS                  
-						.b1v.                                                        iJj                  
-							PL7:.:iiiii:i::::................:::::::i:i:iirr7777LYYY111v7sr                  
-							XsrrrJu1JjYJLv77r7rrrriiirrrrr7v77rYu2j1USSdPqKPSK55UIJ1YY7vrvv                  
-						:SYLrrir:::::::i:i:i:i.ii.::.:.::    :..i. :::.........:.::::irsXr                
-					2dJsv7rrr7r77LvJLjJusJvLvv7777r77vr777vv7L777v77r7rriririr7v77r77JP1               
-				bZusvs7YvsYjsuJ1sJJuj1s1sju1j1u2U2US5SX5ISU52212j1jjjjYusu12jUuuYsL1gi              
-				QqIJjJvvvYs7v777rrrirrriiirr7rrr777r7r7rrrrr7irriir:iirrrrLrrrrr77Lsd:              
-				dXJs77rrrriiiiiriririrrrr7rririi:i:i:iirrrrrrrrrrrrrr7r777777vvYLsJ2Z:              
-																																																																								.               
-                                                                                                    
-   1. Definitions.
-			
-						Kuai Kuai culture (or Guai Guai culture) is a phenomenon in Taiwan wherein 
-						workers put snacks of the brand Kuai Kuai (乖乖) next to or on top of machines. 
-						Workers who do this believe that, because the name of the snack - "Kuai Kuai" 
-						- stands for "obedient" or "well-behaved," it will make a device function 
-						without errors. As such, it can be commonly found in myriad places of work in 
-						Taiwanese society. A rigid set of best practices has arisen surrounding the 
-						proper use of Kuai Kuai snacks, such as using green bags only, and ensuring 
-						the snacks are not expired.
+	1. Definitions.
+		Kuai Kuai culture (or Guai Guai culture) is a phenomenon in Taiwan wherein 
+		workers put snacks of the brand Kuai Kuai (乖乖) next to or on top of machines. 
+		Workers who do this believe that, because the name of the snack - "Kuai Kuai" 
+		- stands for "obedient" or "well-behaved," it will make a device function 
+		without errors. As such, it can be commonly found in myriad places of work in 
+		Taiwanese society. A rigid set of best practices has arisen surrounding the 
+		proper use of Kuai Kuai snacks, such as using green bags only, and ensuring 
+		the snacks are not expired.
